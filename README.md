@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @georgeputhean
 - 👀 I’m interested in Data Science and Product Analytics
-- 🌱 I’m currently learning OpenAI, RPA and PySpark
-- 💞️ I’m looking to collaborate on Pyspark based projects and improve computing on large data sets
+- 🌱 I’m currently learning Langraph Agebts
 - 📫 You can reach me via email: georgeputhean65@gmail.com
 
 <!---
