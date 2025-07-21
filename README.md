@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @georgeputhean
 - 👀 I’m interested in Data Science and Product Analytics
-- 🌱 I’m currently learning Langraph Agebts
+- 🌱 I’m currently learning Langraph Agents
 - 📫 You can reach me via email: georgeputhean65@gmail.com
 
 <!---
